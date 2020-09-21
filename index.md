@@ -16,7 +16,7 @@
 - 
 
 #### Log
-- "西河童"セレクション
+- 過去絵まとめ
 
 #### Underground
-- Coming soon...
+- [Entrance](entrance.html)
