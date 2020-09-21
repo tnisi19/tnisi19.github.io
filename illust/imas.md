@@ -13,7 +13,7 @@
 - [円香P](imas/madokap.html)(3P)
   - やたらキャラの濃い円香P(原作)の話です。
 
-- [小糸の長い夜](imas/torusenpai.html)(6P)
+- [小糸の長い夜](imas/koito.html)(6P)
   - 初期の頃の辛い小糸ちゃんの話です。
 
 - [透先輩](imas/torusenpai.html)(1P)
