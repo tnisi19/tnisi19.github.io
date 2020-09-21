@@ -7,7 +7,7 @@
 #### Info
 
 - 絵
-  - [アイマス](/Illust/imas.html)
+  - [アイマス](illust/imas.html)
   - オリジナル
 - 音楽
 - その他

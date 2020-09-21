@@ -10,14 +10,14 @@
 
 #### シャニマス
 
-- [円香P](Imas/madokap.html)(3P)
+- [円香P](imas/madokap.html)(3P)
   - やたらキャラの濃い円香P(原作)の話です。
 
-- [小糸の長い夜](Imas/torusenpai.html)(6P)
+- [小糸の長い夜](imas/torusenpai.html)(6P)
   - 初期の頃の辛い小糸ちゃんの話です。
 
-- [透先輩](Imas/torusenpai.html)(1P)
+- [透先輩](imas/torusenpai.html)(1P)
   - 大サイフレス時代に便乗した時のやつです。
 
-- [ふゆ](Imas/huyu.html)(2P)
+- [ふゆ](imas/huyu.html)(2P)
   - 強い女の子の話です。
