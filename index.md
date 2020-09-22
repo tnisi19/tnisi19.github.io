@@ -20,3 +20,6 @@
 
 #### Underground
 - [Entrance](entrance.html)
+
+---
+[更新履歴](https://github.com/tnisi19/tnisi19.github.io/commits/master)
