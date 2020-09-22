@@ -5,5 +5,5 @@
 ---
 
 #### 基本設計
-- [絵コンテ(story)](symbotic-girl/story.html)
-- [絵コンテ(system)](symbotic-girl/system.html)
+- [story](symbotic-girl/story.html)
+- [system](symbotic-girl/system.html)
