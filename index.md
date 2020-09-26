@@ -8,7 +8,7 @@
 
 - 絵
   - [アイマス](illust/imas.html)
-  - オリジナル
+  - [オリジナル](illust/original.html)
 - 音楽
 - その他
 
