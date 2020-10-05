@@ -11,9 +11,10 @@
   - [オリジナル](illust/original.html)
 - 音楽
 - その他
+  - [わくいちゃんねる](othre/wakui.html)
+  - [デビ太郎作る](other/debitarou.html)
 
 #### Research
-- 
 
 #### Log
 - 過去絵まとめ
