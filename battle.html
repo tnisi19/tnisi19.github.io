@@ -5,22 +5,35 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Unity WebGL Player | SymbioticGirl</title>
     <link rel="stylesheet" href="css/style.css">
-    <script src="Build/UnityLoader.js"></script>
+    <script src="BuildBattle/UnityLoader.js"></script>
     <script>
-      UnityLoader.instantiate("unityContainer", "Build/battle.json");
+      UnityLoader.instantiate("unityContainer", "BuildBattle/battle.json");
     </script>
   </head>
   <body>
-    <div id="side">
-      サイドバー
-    </div>
-    <div id="content">
-      <div>aaa</div>
+    <div id="content">  
       <div class="game-pc">
-        <div class="game-display">
-          <div id="unityContainer" style="width: 640px; height: 480px;"></div>      
+        <div class="side">
+          <div class="side-content">
+            <img src="./image/label-toppage.png">
+          </div>
+          <div class="side-content">
+            <img src="./image/label-load.png">
+            <img src="./image/label-life.png">
+            <img src="./image/label-battle.png">
+            <img src="./image/label-scenario.png">
+          </div>
+          <div class="side-content">
+            <img src="./image/label-other.png">
+            <img src="./image/label-readme.png">
+          </div>
         </div>
-      </div>紹介
+        <div class="game-content">
+          <div class="game-display">
+            <div id="unityContainer" style="width: 640px; height: 480px;"></div>
+          </div>
+        </div>
+      </div>
     </div>
   </body>
 </html>
