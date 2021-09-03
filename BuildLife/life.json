@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SymbioticGirl",
+"productVersion": "1.0",
+"dataUrl": "life.data.unityweb",
+"wasmCodeUrl": "life.wasm.code.unityweb",
+"wasmFrameworkUrl": "life.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
